@@ -1,0 +1,17 @@
+{
+    "name" : "Cavs",
+    "spots": 4,
+    "members" : [
+        {
+            "name": "Piotr",
+            "email": "piotr@pgmail.com",
+            "status": "Active"
+        },
+        {
+            "name": "Ania",
+            "email": "ania@pgmail.com",
+            "status": "Active"
+        }
+
+    ]
+}
